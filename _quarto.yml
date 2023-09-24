@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "BVÖGD Berlin Brandenburg"
+  navbar:
+    logo: logo.png
+    left:
+      - href: index.qmd
+        text: Startseite
+      - href: mitgliedschaft.qmd
+        text: Mitgliedschaft
+      - href: positionen.qmd
+        text: Positionen
+      - href: veranstaltungen.qmd
+        text: Veranstaltungen
+      - href: about.qmd
+        text: Über
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
