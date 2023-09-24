@@ -1,0 +1,69 @@
+---
+title: "Seien Sie Dabei: Werden Sie Mitglied"
+---
+
+:::: {.columns}
+
+::: {.column width="25%"}
+{{< iconify material-symbols counter-1-outline size=5x >}}
+::: 
+::: {.column width="75%"}
+### Möglichkeit prüfen
+Alle Ärztinnen und Ärzte, Zahnärztinnen und Zahnärzte sowie Fachkräfte im Öffentlichen Gesundheitsdienst der Länder Brandenburg oder Berlin können Mitglied im Verband der Ärzte des Öffentlichen Gesundheitsdienstes der Länder Brandenburg und Berlin e.V. werden.
+::: 
+
+::::
+
+
+
+:::: {.columns}
+
+::: {.column width="25%"}
+{{< iconify material-symbols counter-2-outline size=5x >}}
+::: 
+::: {.column width="75%"}
+### Vorteile kennen lernen
+* können Sie an der Gestaltung des öffentlichen Gesundheitsdienstes aktiv mitwirken.
+* werden Ihre beruflichen Interessen wirksam vertreten.
+* sind Sie in über Entwicklungen im öffentlichen Gesundheitsdienst gut informiert.
+* genießen Sie Unterstützung in beruflichen Rechtsfragen.
+* profitieren Sie von den Vorteilen, die der Bundesverband (BVÖGD.de) bietet.
+* können Sie auf Tagungs- und Schulungsangebote zurückgreifen und zu vergünstigten Konditionen am wissenschaftlichen Kongress des BVÖGD und BZÖG teilnehmen.
+
+::: 
+
+::::
+
+
+
+
+:::: {.columns}
+
+::: {.column width="25%"}
+{{< iconify material-symbols counter-3-outline size=5x >}}
+::: 
+::: {.column width="75%"}
+### Aufnahmeantrag ausfüllen
+Aufnahmeantrag für die Mitgliedschaft finden Sie zum herunterladen hier (PDF)
+::: 
+
+::::
+
+:::: {.columns}
+
+::: {.column width="25%"}
+{{< iconify material-symbols counter-4-outline size=5x >}}
+::: 
+::: {.column width="75%"}
+### Aufnahmeantrag abschicken
+
+Bitte senden Sie das ausgedruckte und ausgefüllte Original (Aufnahmeantrag & Einzugsermächtigung) an:
+
+Martina Hänel (Schatzmeisterin)
+Handjerystr. 63
+12161 Berlin
+::: 
+
+::::
+
+

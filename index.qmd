@@ -3,15 +3,62 @@ title: "Verband der Ärztinnen und Ärzte des Öffentlichen Gesundheitsdienstes 
 ---
 
 
-![](logo.png)
+![](img/logo.png){fig-align="center"}
 
-Der Verband der Ärztinnen und Ärzte des Öffentlichen Gesundheitsdienstes der Länder Brandenburg und Berlin e.V. wahrt die beruflichen und wissenschaftlichen Interessen zur Förderung des Öffentlichen Gesundheitsdienstes in den Bundesländern Berlin und Brandenburg.
-
-Der Vorstand ist die gewählte Interessenvertretung.
-
-Der Verband bietet seinen Mitgliedern mit Fortbildungen, Mitgliederversammlung und Fachausschüssen die Gelegenheit für Austausch zu berufspolitischen, gewerkschaftlichen und wissenschaftlichen Themen.
+Der Verband der Ärztinnen und Ärzte des Öffentlichen Gesundheitsdienstes der Länder Brandenburg und Berlin e.V. ist die berufliche und wissenschaftliche Interessensvertretung der Ärztinnen und Ärzte des Öffentlichen Gesundheitsdienstes in den Bundesländern Berlin und Brandenburg.
 
 In diesem Verband engagieren sich Kolleginnen und Kollegen ehrenamtlich um die Interessen der Mitglieder, sowie Aller im Öffentlichen Gesundheitsdienst Mitarbeitenden und Bürger zu vertreten.
 
-Nur ein handlungsfähiger und gut ausgestatteter Öffentlicher Gesundheitsdienst kann kompetent, schnell und flexible auf aktuelle Herausforderungen reagieren.
+
+### Das sind wir
+:::: {.columns}
+::: {.column width="25%"}
+<center>
+{{< iconify healthicons doctor-female size=5x >}}
+</center>
+:::
+::: {.column width="75%"}
+* Ärztinnen und Ärzte im ÖGD
+* Ehrenamtliche Tätige
+:::
+::::
+
+
+### Das tun wir
+:::: {.columns}
+::: {.column width="25%"}
+<center>
+{{< iconify healthicons intensity-concentration-bioassays-outline size=5x >}}</center>
+</center>
+:::
+::: {.column width="75%"}
+* Förderung des ÖGD
+* Politische Forderungen
+* Austausch
+* Fortbildung
+* Beratung
+* Vertretung der Mitglieder
+:::
+::::
+
+
+
+### Da wollen wir hin
+:::: {.columns}
+::: {.column width="25%"}
+<center>
+{{< iconify healthicons happy size=5x >}}</center>
+</center>
+:::
+::: {.column width="75%"}
+* Gesunde Bevölkerung
+* Biologische/psychische und soziale Gesundheit
+:::
+::::
+
+
+
+
+
+
 

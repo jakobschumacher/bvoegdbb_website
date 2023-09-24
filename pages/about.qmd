@@ -1,0 +1,121 @@
+---
+title: "Über"
+toc: false
+---
+
+
+## Vorstand
+
+:::: {.columns}
+
+::: {.column width="25%"}
+![](../img/Kristina_BoehmXS.jpg)
+:::
+::: {.column width="5%"}
+:::
+
+::: {.column width="70%"}
+#### Dr. Kristina Böhm 
+_Vorsitzende_  
+Tel.: 0331-289-2353
+Kristina.Boehm(at)rathaus.potsdam.de 
+:::
+::::
+
+:::: {.columns}
+
+::: {.column width="25%"}
+![](../img/Gudrun_WiddersXS.jpg)
+:::
+::: {.column width="5%"}
+:::
+
+::: {.column width="70%"}
+#### DM Gudrun Widders  
+_Stellvertretende Vorsitzende_  
+Tel.: 030 902794011  
+g.widders(at)ba-spandau.berlin.de  
+
+:::
+::::
+
+
+:::: {.columns}
+
+::: {.column width="25%"}
+![](../img/Oliver-FahronXS.jpg)
+:::
+::: {.column width="5%"}
+:::
+
+::: {.column width="70%"}
+#### Oliver Fahron
+_Stellvertretender Vorsitzender_  
+
+:::
+::::
+
+
+
+:::: {.columns}
+
+::: {.column width="25%"}
+![](../img/Dr-Nicolai-Savaskan-web.jpg)
+:::
+::: {.column width="5%"}
+:::
+
+::: {.column width="70%"}
+#### Dr. Nicolai Savaskan
+_Schriftführer_  
+
+:::
+::::
+
+:::: {.columns}
+
+::: {.column width="25%"}
+![](../img/Martina_Ha__hnelXS.jpg)
+:::
+::: {.column width="5%"}
+:::
+
+::: {.column width="70%"}
+####  Martina Hänel
+_Schatzmeisterin_  
+Tel.: 030 8511787  
+martina_haenel(at)web.de  
+
+:::
+::::
+
+
+:::: {.columns}
+
+::: {.column width="25%"}
+![](../img/Claudia-Krummacher-web.jpg)
+:::
+::: {.column width="5%"}
+:::
+
+::: {.column width="70%"}
+####  Claudia Krummacher
+_Beisitzerin_
+
+:::
+::::   
+
+:::: {.columns}
+
+::: {.column width="25%"}
+![](../img/Oatrick_Larscheid-web.jpg)
+:::
+::: {.column width="5%"}
+:::
+
+::: {.column width="70%"}
+####  Patrick Larscheid
+_Beisitzer_
+
+:::
+::::   
