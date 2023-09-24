@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>BVÖGD Berlin Brandenburg</title>
+<link>https://www.oegd-bbg-berlin.de/pages/neuigkeiten.html</link>
+<atom:link href="https://www.oegd-bbg-berlin.de/pages/neuigkeiten.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.3.450</generator>
+<lastBuildDate>Thu, 09 Nov 2023 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Fortbildungsveranstaltung und Mitgliederversammlung 2023</title>
+  <link>https://www.oegd-bbg-berlin.de/pages/blog/2023_FortbildungMitglieder.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>Die Fortbildungsveranstaltung findet in 2023 unter dem Thema “Gesundheit für Geflüchtete” an. Die Veranstaltung findet statt in Potsdam</p>
+
+
+
+ ]]></description>
+  <guid>https://www.oegd-bbg-berlin.de/pages/blog/2023_FortbildungMitglieder.html</guid>
+  <pubDate>Thu, 09 Nov 2023 23:00:00 GMT</pubDate>
+  <media:content url="https://www.oegd-bbg-berlin.de/img/potsdam.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Fortbildungsveranstaltung und Mitgliederversammlung 2021</title>
+  <link>https://www.oegd-bbg-berlin.de/pages/blog/2021_FortbildungMitglieder.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>Am 08.06.2021 findet die Fortbildungsveranstaltung und Mitgliederversammlung des ÖGD-Landesverbandes Brandenburg und Berlin 2021 virtuell statt. Das Thema der Fortbildungsveranstaltung ist “Öffentlicher Gesundheitsdienst in Zeiten der Pandemie”. Das Programm finden Sie (hier)</p>
+
+
+
+ ]]></description>
+  <guid>https://www.oegd-bbg-berlin.de/pages/blog/2021_FortbildungMitglieder.html</guid>
+  <pubDate>Mon, 07 Jun 2021 22:00:00 GMT</pubDate>
+  <media:content url="https://www.oegd-bbg-berlin.de/img/jonas-jacobsson-2xaF4TbjXT0-unsplash.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Fortbildungsveranstaltung und Mitgliederversammlung 2019</title>
+  <link>https://www.oegd-bbg-berlin.de/pages/blog/2019_FortbildungMitglieder.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>Am 25.02.2019 findet die Fortbildungsveranstaltung und Mitgliederversammlung des ÖGD-Landesverbandes Brandenburg und Berlin 2019 statt.</p>
+<p>Das Thema der Fortbildungsveranstaltung ist “Gesundheitsschutz für Alle! Herausforderungen für den ÖGD bei der Tuberkulosefürsorge und der Beratung zu sexuell übertragbaren Krankheiten”.</p>
+<p>Das Programm finden Sie (hier)</p>
+
+
+
+ ]]></description>
+  <guid>https://www.oegd-bbg-berlin.de/pages/blog/2019_FortbildungMitglieder.html</guid>
+  <pubDate>Sun, 24 Feb 2019 23:00:00 GMT</pubDate>
+  <media:content url="https://www.oegd-bbg-berlin.de/pages/blog/spandau.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Fortbildungsveranstaltung und Mitgliederversammlung 2017</title>
+  <link>https://www.oegd-bbg-berlin.de/pages/blog/2017_FortbildungMitglieder.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>Am 20.02.2017 findet die Fortbildungsveranstaltung zum Thema “Kinderschutz eine multiprofessionelle Aufgabe” und Mitgliederversammlung des ÖGD-Landesverbandes Brandenburg und Berlin 2017 statt. Das Programm finden Sie hier (PDF).</p>
+
+
+
+ ]]></description>
+  <guid>https://www.oegd-bbg-berlin.de/pages/blog/2017_FortbildungMitglieder.html</guid>
+  <pubDate>Sun, 19 Feb 2017 23:00:00 GMT</pubDate>
+  <media:content url="https://www.oegd-bbg-berlin.de/pages/blog/spandau.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Fortbildungsveranstaltung und Mitgliederversammlung 2023</title>
+  <link>https://www.oegd-bbg-berlin.de/pages/blog/2016_staerkung_oegd.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>Verband des Ärzte des Öffentlichen Gesundheitsdienstes - Landesverband Brandenburg und Berlin &amp; Berufsverbandes der Hygieneinspektoren Berlin-Brandenburg (PDF) Positionspapier zur Entlohnung der Ärztinnen und Ärzte im Öffentlichen Gesundheitsdienst Berlin</p>
+
+
+
+ ]]></description>
+  <guid>https://www.oegd-bbg-berlin.de/pages/blog/2016_staerkung_oegd.html</guid>
+  <pubDate>Tue, 04 Oct 2016 22:00:00 GMT</pubDate>
+  <media:content url="https://www.oegd-bbg-berlin.de/img/markus-spiske-P0klwkGbH_M-unsplash.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
