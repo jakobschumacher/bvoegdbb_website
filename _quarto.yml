@@ -3,7 +3,7 @@ project:
 
 website:
   title: "BVÖGD Berlin Brandenburg"
-  site-url: https://www.oegd-bbg-berlin.de/ 
+  site-url: https://jakobschumacher.github.io/bvoegdbb_website/
   navbar:
     left:
       - href: index.qmd
