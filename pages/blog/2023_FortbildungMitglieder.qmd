@@ -1,8 +1,17 @@
 ---
 title: "Fortbildungsveranstaltung und Mitgliederversammlung 2023"
-date: 2023-11-10 
-image: ../../img/potsdam.jpg 
+date: 2023-11-20 
+image: ../../img/potsdam2.jpg 
 category: Fortbildung
 lang: de
 ---
-Die Fortbildungsveranstaltung findet in 2023 unter dem Thema "Gesundheit für Geflüchtete" an. Die Veranstaltung findet statt in Potsdam 
+Die Fortbildungsveranstaltung findet in 2023 unter dem Thema "Herausforderungen für den Öffentlichen Gesundheitsdienst im Rahmen der Versorgung von Geflüchteten" an. Die Veranstaltung findet statt in Potsdam - Bürgerhaus am Schlaatz, Schilfhof 28, 14478 Potsdam
+ 
+ ::: {.callout-note}
+Was: ÖGD-Fortbildungsveranstaltung (9:00 bis 13:30) und Mitgliederversammlung (14:00 bis 16:00 Uhr)
+Wann:	Montag, 20.11.2023 
+Wo:	Potsdam - Bürgerhaus am Schlaatz, Schilfhof 28, 14478 Potsdam
+Wer: BVÖGD-Mitglieder und Interessierte
+:::
+ 
+Wir konnten interessante Referenten u.a. aus dem ZIPP, dem GFZ, dem Gesundheitsamt Neukölln und der Überwachungsstelle ÖRA Bw Ost gewinnen. 

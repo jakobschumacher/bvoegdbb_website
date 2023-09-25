@@ -1,12 +1,13 @@
 ---
 title: "Fortbildungsveranstaltung und Mitgliederversammlung 2021"
 date: 2021-06-08 
-image: ../../img/jonas-jacobsson-2xaF4TbjXT0-unsplash.jpg 
+image: ../../img/chris-montgomery-smgTvepind4-unsplash.jpg 
 category: Fortbildung
 lang: de
 ---
 Am 08.06.2021 findet die Fortbildungsveranstaltung und Mitgliederversammlung des ÖGD-Landesverbandes Brandenburg und Berlin 2021 virtuell statt. Das Thema der Fortbildungsveranstaltung ist "Öffentlicher Gesundheitsdienst in Zeiten der Pandemie". 
-Das Programm finden Sie (hier)
+
+[Der Flyer zur Veranstaltung](../../documents/2021_Flyer_Fortbildung_Mitgliederversammlung.pdf)
 
 
 

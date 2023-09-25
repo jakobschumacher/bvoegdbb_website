@@ -1,12 +1,16 @@
 ---
-title: "Impfen - ein Thema in Berlin und Brandenburg"
+title: "Vorträge 2018"
 date: 2018-02-19 
-image: ../../images/kenny-eliason-1-aA2Fadydc-unsplash.jpg
+image: ../../img/jonas-jacobsson-2xaF4TbjXT0-unsplash.jpg
 category: Vortrag
 lang: de
 ---
-
-Vortrag: Dipl.-Med. Gudrun Widders, 19. Februar 2018 ([PDF]())
-
+Fortbildungsvorträge zum Thmea Impfen und BTHG
 
 
+### Impfen - ein Thema in Berlin und Brandenburg 
+Vortrag von Dipl.-Med. Gudrun Widders ([PDF]())
+
+
+### BTHG – Was ändert sich für den ÖGD in Berlin (mit Fokus auf die psychiatrische Versorgung)?
+Vortrag von Dr. Thomas Götz ([PDF](../../documents/2018-02-19_BVO__GD-BTHG_und_O__GD_in_Berlin_short.pdf))
