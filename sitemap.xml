@@ -1,47 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jakobschumacher.github.io/bvoegdbb_website/pages/oegd.html</loc>
-    <lastmod>2023-09-24T09:27:40.579Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jakobschumacher.github.io/bvoegdbb_website/pages/blog/2019_FortbildungMitglieder.html</loc>
-    <lastmod>2023-09-24T09:27:39.687Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jakobschumacher.github.io/bvoegdbb_website/pages/blog/2016_staerkung_oegd.html</loc>
-    <lastmod>2023-09-24T09:27:38.779Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jakobschumacher.github.io/bvoegdbb_website/pages/blog/2017_FortbildungMitglieder.html</loc>
-    <lastmod>2023-09-24T09:27:37.939Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jakobschumacher.github.io/bvoegdbb_website/pages/about.html</loc>
-    <lastmod>2023-09-24T09:27:37.127Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jakobschumacher.github.io/bvoegdbb_website/index.html</loc>
-    <lastmod>2023-09-24T09:27:35.927Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jakobschumacher.github.io/bvoegdbb_website/pages/neuigkeiten.html</loc>
-    <lastmod>2023-09-24T09:27:36.663Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jakobschumacher.github.io/bvoegdbb_website/pages/impressum.html</loc>
-    <lastmod>2023-09-24T09:27:37.551Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jakobschumacher.github.io/bvoegdbb_website/pages/blog/2021_FortbildungMitglieder.html</loc>
-    <lastmod>2023-09-24T09:27:38.359Z</lastmod>
+    <loc>https://jakobschumacher.github.io/bvoegdbb_website/pages/mitgliedschaft.html</loc>
+    <lastmod>2023-09-25T07:59:56.764Z</lastmod>
   </url>
   <url>
     <loc>https://jakobschumacher.github.io/bvoegdbb_website/pages/blog/2023_FortbildungMitglieder.html</loc>
-    <lastmod>2023-09-24T09:27:39.267Z</lastmod>
+    <lastmod>2023-09-25T07:59:55.900Z</lastmod>
   </url>
   <url>
-    <loc>https://jakobschumacher.github.io/bvoegdbb_website/pages/mitgliedschaft.html</loc>
-    <lastmod>2023-09-24T09:27:40.143Z</lastmod>
+    <loc>https://jakobschumacher.github.io/bvoegdbb_website/pages/blog/2021_FortbildungMitglieder.html</loc>
+    <lastmod>2023-09-25T07:59:55.056Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jakobschumacher.github.io/bvoegdbb_website/pages/blog/2016_Position_Gemeinsam.html</loc>
+    <lastmod>2023-09-25T07:59:54.228Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jakobschumacher.github.io/bvoegdbb_website/pages/blog/2017_FortbildungMitglieder.html</loc>
+    <lastmod>2023-09-25T07:59:53.436Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jakobschumacher.github.io/bvoegdbb_website/pages/about.html</loc>
+    <lastmod>2023-09-25T07:59:52.516Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jakobschumacher.github.io/bvoegdbb_website/index.html</loc>
+    <lastmod>2023-09-25T07:59:51.224Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jakobschumacher.github.io/bvoegdbb_website/pages/neuigkeiten.html</loc>
+    <lastmod>2023-09-25T07:59:51.920Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jakobschumacher.github.io/bvoegdbb_website/pages/impressum.html</loc>
+    <lastmod>2023-09-25T07:59:53.036Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jakobschumacher.github.io/bvoegdbb_website/pages/blog/2019_Position_Wahlpruefsteine.html</loc>
+    <lastmod>2023-09-25T07:59:53.864Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jakobschumacher.github.io/bvoegdbb_website/pages/blog/2016_Position_Entlohnung.html</loc>
+    <lastmod>2023-09-25T07:59:54.652Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jakobschumacher.github.io/bvoegdbb_website/pages/blog/2018_Vortrag_impfen.html</loc>
+    <lastmod>2023-09-25T07:59:55.428Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jakobschumacher.github.io/bvoegdbb_website/pages/blog/2019_FortbildungMitglieder.html</loc>
+    <lastmod>2023-09-25T07:59:56.320Z</lastmod>
   </url>
 </urlset>
