@@ -1,7 +1,11 @@
 ---
-title: "Über"
+title: "Über uns"
 toc: false
 ---
+## Kontakt
+Dr. Kristina Böhm  
+Tel.: 0331-289-2353  
+OeGDLandesverbandBBB(at)gmx.de
 
 
 ## Vorstand
@@ -17,7 +21,7 @@ toc: false
 ::: {.column width="70%"}
 #### Dr. Kristina Böhm 
 _Vorsitzende_  
-Tel.: 0331-289-2353
+Tel.: 0331-289-2353  
 Kristina.Boehm(at)rathaus.potsdam.de 
 :::
 ::::
@@ -34,7 +38,6 @@ Kristina.Boehm(at)rathaus.potsdam.de
 #### DM Gudrun Widders  
 _Stellvertretende Vorsitzende_  
 Tel.: 030 902794011  
-g.widders(at)ba-spandau.berlin.de  
 
 :::
 ::::
@@ -119,3 +122,45 @@ _Beisitzer_
 
 :::
 ::::   
+
+
+## Ehrenmitglieder
+ 
+In Würdigung herausragender Aktivitäten über viele Jahre wurden folgende Mitglieder gemäß der Satzung unseres Verbandes zu Ehrenmitgliedern ernannt:
+
+
+Dr. med. Heinz-Walter Knackmuß (Rathenow)
+
+Dr. med. Gabriele Ellsäßer (Berlin)
+
+Dr. med. Helmut Hoffmann (Berlin)
+
+Dr. med. Claudia Kaufhold (Berlin)
+
+
+
+## Was ist der öffentlicher Gesundheitsdienst - Ein Überblick
+
+
+Der Öffentliche Gesundheitsdienst spielt neben der ambulanten und klinischen Versorgung eine zentrale Rolle im Gesundheitswesen. 
+
+Der Öffentliche Gesundheitsdienst fokussiert sich auf:
+
+*    Gesundheitsschutz und -förderung
+*    Prävention und Berichterstattung
+*    Politikberatung und vieles mehr.
+
+In Deutschland sind die Gesundheitsämter auf kommunaler Ebene angesiedelt. Sie bestehen aus einem Team von Experten, darunter Ärzte, Psychologen und Ingenieure. Ihre Aufgaben? Von der Beratung in medizinischen Fragen bis hin zur Überwachung von Trinkwasser und Hygiene.
+
+Ein typisches Gesundheitsamt hat verschiedene Bereiche:
+
+*    Amtsärztlicher Dienst
+*    Infektionsschutz
+*    Kinder- und Jugendgesundheitsdienst
+*    Psychiatriekoordinierung
+
+Zusätzlich können Bereiche wie Gesundheitsförderung, Rettungsdienstaufsicht und Schwangerenberatung hinzukommen.
+
+Auf Landesebene gibt es Landesstellen die von Landesgesundheitsämtern unterstützt werden. Und auf Bundesebene? Das Bundesministerium für Gesundheit koordiniert spezialisierte Behörden wie das Robert-Koch Institut und das Paul-Ehrlich Institut.
+
+Zusammenfassend ist der Öffentliche Gesundheitsdienst ein wesentlicher Bestandteil des Gesundheitswesens, ergänzt durch Institute, Forschungseinrichtungen und Netzwerke im Gesundheitsbereich.

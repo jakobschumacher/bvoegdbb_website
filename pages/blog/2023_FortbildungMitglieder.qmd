@@ -3,5 +3,6 @@ title: "Fortbildungsveranstaltung und Mitgliederversammlung 2023"
 date: 2023-11-10 
 image: ../../img/potsdam.jpg 
 category: Fortbildung
+lang: de
 ---
 Die Fortbildungsveranstaltung findet in 2023 unter dem Thema "Gesundheit für Geflüchtete" an. Die Veranstaltung findet statt in Potsdam 

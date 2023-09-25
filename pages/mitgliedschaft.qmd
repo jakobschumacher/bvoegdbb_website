@@ -9,7 +9,7 @@ title: "Seien Sie Dabei: Werden Sie Mitglied"
 ::: 
 ::: {.column width="75%"}
 ### Möglichkeit prüfen
-Alle Ärztinnen und Ärzte, Zahnärztinnen und Zahnärzte sowie Fachkräfte im Öffentlichen Gesundheitsdienst der Länder Brandenburg oder Berlin können Mitglied im Verband der Ärzte des Öffentlichen Gesundheitsdienstes der Länder Brandenburg und Berlin e.V. werden.
+Alle Ärztinnen und Ärzte, Zahnärztinnen und Zahnärzte sowie Fachkräfte im Öffentlichen Gesundheitsdienst der Länder Brandenburg oder Berlin können Mitglied werden.
 ::: 
 
 ::::
@@ -22,32 +22,31 @@ Alle Ärztinnen und Ärzte, Zahnärztinnen und Zahnärzte sowie Fachkräfte im �
 {{< iconify material-symbols counter-2-outline size=5x >}}
 ::: 
 ::: {.column width="75%"}
-### Vorteile kennen lernen
-* können Sie an der Gestaltung des öffentlichen Gesundheitsdienstes aktiv mitwirken.
-* werden Ihre beruflichen Interessen wirksam vertreten.
-* sind Sie in über Entwicklungen im öffentlichen Gesundheitsdienst gut informiert.
-* genießen Sie Unterstützung in beruflichen Rechtsfragen.
-* profitieren Sie von den Vorteilen, die der Bundesverband (BVÖGD.de) bietet.
-* können Sie auf Tagungs- und Schulungsangebote zurückgreifen und zu vergünstigten Konditionen am wissenschaftlichen Kongress des BVÖGD und BZÖG teilnehmen.
+### Vorteile der Mitgliedschaft
+* Sie können an der Gestaltung des öffentlichen Gesundheitsdienstes aktiv mitwirken.
+* Sie können Ihre beruflichen Interessen wirksam vertreten lassen.
+* Sie sind über die Entwicklungen im öffentlichen Gesundheitsdienst gut informiert.
+* Sie genießen Sie Unterstützung in beruflichen Rechtsfragen.
+* Sie profitieren von den Vorteilen, die der Bundesverband [BVÖGD.de](https://bvoegd.de) bietet.
+* Sie können Sie auf Fortbilden lassen 
+* Sie können sich über die Facharztweiterbildung zum Facharzt ÖGW informieren
+* Sie können zu vergünstigten Konditionen am wissenschaftlichen [Kongress des BVÖGD und BZÖG](https://bvoegd-kongress.de/) teilnehmen.
 
 ::: 
 
 ::::
 
-
-
-
 :::: {.columns}
-
 ::: {.column width="25%"}
 {{< iconify material-symbols counter-3-outline size=5x >}}
 ::: 
 ::: {.column width="75%"}
-### Aufnahmeantrag ausfüllen
-Aufnahmeantrag für die Mitgliedschaft finden Sie zum herunterladen hier (PDF)
+### Wichtige Dokumente kennen lernen
+Lernen Sie die [Satzung](../documents/satzung.pdf) und die [Beitragsordnung](../documents/beitragsordnung.pdf) kennen 
 ::: 
 
 ::::
+
 
 :::: {.columns}
 
@@ -55,15 +54,16 @@ Aufnahmeantrag für die Mitgliedschaft finden Sie zum herunterladen hier (PDF)
 {{< iconify material-symbols counter-4-outline size=5x >}}
 ::: 
 ::: {.column width="75%"}
-### Aufnahmeantrag abschicken
+### Aufnahmeantrag ausfüllen und abschicken
+[Aufnahmeantrag und Einzugsermächtigung](../documents/Antrag_auf_Mitgliedschaft_Einzugsermaechtigung_2019-02-23.pdf) für die Mitgliedschaft herunterladen und ausfüllen.
+
 
 Bitte senden Sie das ausgedruckte und ausgefüllte Original (Aufnahmeantrag & Einzugsermächtigung) an:
 
-Martina Hänel (Schatzmeisterin)
-Handjerystr. 63
-12161 Berlin
+Martina Hänel (Schatzmeisterin)  
+Handjerystr. 63  
+12161 Berlin  
 ::: 
 
 ::::
-
 

@@ -1,8 +1,9 @@
 ---
-title: "Fortbildungsveranstaltung und Positionen"
+title: "Neuigkeiten"
 listing:
   contents: 
     - "blog/*.qmd"
   sort: "date desc"
   feed: true
+lang: de
 ---

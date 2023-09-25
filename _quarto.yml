@@ -11,18 +11,16 @@ website:
       - href: pages/mitgliedschaft.qmd
         text: Mitgliedschaft
       - href: pages/neuigkeiten.qmd
-        text: "Veranstaltungen & Positionen"
-      - href: pages/oegd.qmd
-        text: Öffentlicher Gesundheitsdienst
+        text: Neuigkeiten
       - href: pages/about.qmd
         text: Über
   page-footer: 
-    left: "Copyright 2023 BVÖGD-BB" 
+    left: "Copyright 2023 Verband der Ärztinnen und Ärzte des Öffentlichen Gesundheitsdienstes der Länder Brandenburg und Berlin e.V." 
     right: 
+      - href: pages/impressum.qmd
+        text: Impressum & Datenschutz
       - icon: github
         href: https://github.com/
-      - icon: twitter 
-        href: https://twitter.com/ 
 
 
 

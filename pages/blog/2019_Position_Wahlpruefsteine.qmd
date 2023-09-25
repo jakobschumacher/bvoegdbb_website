@@ -1,0 +1,17 @@
+---
+title: "Wahlprüfsteine zu Landtagswahl in Brandenburg"
+date: 2019-06-19 
+image: ../../img/dummy-teaser.jpg
+category: Standpunkt
+lang: de
+---
+
+Zur Landtagswahl in Brandenburg am 01.09.2019 hat der Berufsverband Fragen, also sogenannte Wahlprüfsteine, an die Parteien gerichtet um deren Perspektiven auf wichtige Themen der Öffentlichen Gesundheit und der Arbeit in den Kommunen zu erfahren.
+
+Hier finden Sie die Antworten der Parteien (geordnet nach Anzahl der Stimmen) der 
+* [SPD](../../documents/SPD.pdf)
+* [AfD](../../documents/AfD.pdf)
+* [CDU](../../documents/CDU.pdf)
+* [Die Grünen](../../documents/Die_Gruenen.pdf)
+* [Die Linke](../../documents/Die_Linke.pdf)
+

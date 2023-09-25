@@ -2,7 +2,8 @@
 title: "Fortbildungsveranstaltung und Mitgliederversammlung 2023"
 date: 2016-10-05 
 image: ../../img/markus-spiske-P0klwkGbH_M-unsplash.jpg 
-category: Fortbildung
+category: Standpunkt
+lang: de
 ---
 Verband des Ärzte des Öffentlichen Gesundheitsdienstes - Landesverband Brandenburg und Berlin & Berufsverbandes der Hygieneinspektoren Berlin-Brandenburg (PDF)
 Positionspapier zur Entlohnung der Ärztinnen und Ärzte im Öffentlichen Gesundheitsdienst Berlin

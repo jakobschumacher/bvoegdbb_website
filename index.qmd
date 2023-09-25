@@ -1,13 +1,12 @@
 ---
 title: "Verband der Ärztinnen und Ärzte des Öffentlichen Gesundheitsdienstes der Länder Brandenburg und Berlin e.V."
+toc: false
 ---
 
 
 ![](img/logo.png){fig-align="center"}
 
-Der Verband der Ärztinnen und Ärzte des Öffentlichen Gesundheitsdienstes der Länder Brandenburg und Berlin e.V. ist die berufliche und wissenschaftliche Interessensvertretung der Ärztinnen und Ärzte des Öffentlichen Gesundheitsdienstes in den Bundesländern Berlin und Brandenburg.
-
-In diesem Verband engagieren sich Kolleginnen und Kollegen ehrenamtlich um die Interessen der Mitglieder, sowie Aller im Öffentlichen Gesundheitsdienst Mitarbeitenden und Bürger zu vertreten.
+Wir sind der Verband der Ärztinnen und Ärzte des Öffentlichen Gesundheitsdienstes der Länder Brandenburg und Berlin e.V.! In diesem Verband engagieren wir uns ehrenamtlich.  Wir vertreten die Interessen der Mitglieder, der Interessen anderer Beschätigter im Öffentlichen Gesundheitsdienst Mitarbeitenden und die Interessen der Bürgerinnen und Bürger. 
 
 
 ### Das sind wir
@@ -18,8 +17,9 @@ In diesem Verband engagieren sich Kolleginnen und Kollegen ehrenamtlich um die I
 </center>
 :::
 ::: {.column width="75%"}
-* Ärztinnen und Ärzte im ÖGD
+* Ärztinnen und Ärzte im Öffentlichen Gesundheitsdienst
 * Ehrenamtliche Tätige
+
 :::
 ::::
 
@@ -32,12 +32,12 @@ In diesem Verband engagieren sich Kolleginnen und Kollegen ehrenamtlich um die I
 </center>
 :::
 ::: {.column width="75%"}
-* Förderung des ÖGD
-* Politische Forderungen
+* Vertretung der Mitglieder
+* Förderung der öffentlichen Gesundheit
+* Forderungen der öffentlichen Gesundheit
 * Austausch
 * Fortbildung
 * Beratung
-* Vertretung der Mitglieder
 :::
 ::::
 
@@ -52,7 +52,8 @@ In diesem Verband engagieren sich Kolleginnen und Kollegen ehrenamtlich um die I
 :::
 ::: {.column width="75%"}
 * Gesunde Bevölkerung
-* Biologische/psychische und soziale Gesundheit
+* Biologische, psychische und soziale Gesundheit
+* Starke und stablie Gesundheitsämter 
 :::
 ::::
 
