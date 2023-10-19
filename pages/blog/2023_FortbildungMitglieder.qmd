@@ -5,14 +5,13 @@ image: ../../img/potsdam2.jpg
 category: Fortbildung
 lang: de
 ---
-Die Fortbildungsveranstaltung findet in 2023 unter dem Thema "Herausforderungen für den Öffentlichen Gesundheitsdienst im Rahmen der Versorgung von Geflüchteten" an. Die Veranstaltung findet statt in Potsdam - Bürgerhaus am Schlaatz, Schilfhof 28, 14478 Potsdam
+
+* Ort: [Potsdam - Bürgerhaus am Schlaatz, Schilfhof 28, 14478 Potsdam](https://www.openstreetmap.org/?mlat=52.37749&mlon=13.09729#map=19/52.37749/13.09729)
+* Datum: Montag, 20.11.2023 9:00 - 16:00
+* Wer: BVÖGD-Mitglieder und Interessierte 
+
+![](../../img/potsdam2.jpg)
  
-::: {.callout-note} 
-Was: ÖGD-Fortbildungsveranstaltung (9:00 bis 13:30) und Mitgliederversammlung (14:00 bis 16:00 Uhr)
-Wann:	Montag, 20.11.2023 
-Wo:	[Potsdam - Bürgerhaus am Schlaatz, Schilfhof 28, 14478 Potsdam](https://www.openstreetmap.org/?mlat=52.37749&mlon=13.09729#map=19/52.37749/13.09729)
-Wer: BVÖGD-Mitglieder und Interessierte
-:::   
 
 ## Einladung
 Liebe Kolleginnen und Kollegen,
@@ -22,39 +21,39 @@ Ich freue mich auf eine interessante, bunte Veranstaltungen mit intensiven Austa
 Bis demnächst in Potsdam! 
 _Frau Dr. Kristina Böhm_
 
-## Programm Fortbildungsveranstaltung
+## Programm Fortbildungsveranstaltung: "Herausforderungen für den Öffentlichen Gesundheitsdienst im Rahmen der Versorgung von Geflüchteten"
 
-09:00 bis 09:05 Uhr
-Begrüßung und Einführung
+09:00 bis 09:05 Uhr  
+Begrüßung und Einführung  
 Frau Dr. Kristina Böhm
 
-09:05 bis 09:15 Uhr 
-Grußwort Dr. Ullrich Widders 
+09:05 bis 09:15 Uhr   
+Grußwort Dr. Ullrich Widders   
 MSGIV – Ref. 43
 
 09:20 bis 09:50 Uhr 
-Thomas Götz
+Thomas Götz  
 Psychosoziale Versorgung der Flüchtlinge
 
-09:55 bis 10:25 Uhr 
-Simone Penka 
-ZIPP  - Zentrum für interkulturelle Psychiatrie Charité Berlin
+09:55 bis 10:25 Uhr   
+Simone Penka  
+ZIPP - Zentrum für interkulturelle Psychiatrie Charité Berlin
 
-10:30 bis 11:00 Uhr 
-Götz Mundle 
+10:30 bis 11:00 Uhr   
+Götz Mundle  
 GZF - Gesundheitszentrum für Flüchtlinge
 
 Kaffeepause
 
-11:30 bis 12:00 Uhr 
-Frank Kunitz 
+11:30 bis 12:00 Uhr   
+Frank Kunitz  
 Tuberkulose und andere infektiologische Herausforderungen
 
-12:00 bis 12:30 Uhr
-Jörg Reimuth
+12:00 bis 12:30 Uhr  
+Jörg Reimuth  
 Infrastruktur zur Aufnahme von Flüchtlingen und Asylsuchenden
 
-12:30 bis 13:00 Uhr 
+12:30 bis 13:00 Uhr   
 Diskussion
 
 12:30 bis 13:00 Uhr 
@@ -63,10 +62,10 @@ Abschluss
 
 ## Programm Mitgliederversammlung
 
-14:00 Uhr bis 16:00 Uhr
+14:00 Uhr bis 16:00 Uhr  
 Verfahrensverantwortung: Frau Dr. Kristina Böhm
 
-### Tagesordnung
+#### Tagesordnung
 1) Begrüßung durch Frau Dr. Böhm
 2) Genehmigung der Tagesordnung
 3) Bericht des Vorstandes
