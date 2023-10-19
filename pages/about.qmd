@@ -72,7 +72,7 @@ _Stellvertretender Vorsitzender_
 :::
 
 ::: {.column width="70%"}
-#### Dr. Nicolai Savaskan
+#### PD Dr. med. habil. Nicolai Savaskan
 _Schriftführer_  
 
 :::
@@ -125,6 +125,41 @@ _Beisitzer_
 
 :::
 ::::   
+
+
+:::: {.columns}
+
+::: {.column width="25%"}
+![](../img/Katharina_Krause.jpg)
+:::
+::: {.column width="5%"}
+:::
+
+::: {.column width="70%"}
+####  Dr. Katharina Krause
+_Beisitzerin_
+
+:::
+:::: 
+
+
+
+:::: {.columns}
+
+::: {.column width="25%"}
+![](../img/jakobschumacher.jpg)
+:::
+::: {.column width="5%"}
+:::
+
+::: {.column width="70%"}
+####  Dr. Jakob Schumacher
+_Beisitzer, Webseitenbetreuung_
+
+:::
+:::: 
+
+
 
 
 ## Ehrenmitglieder

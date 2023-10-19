@@ -20,31 +20,27 @@ Des Weiteren behält sich der Verband der Ärztinnen und Ärzte des öffentliche
 
 Inhalt und Struktur der Websites des Verband der Ärztinnen und Ärzte des öffentlichen Gesundheitsdienstes der Länder Brandenburg und Berlin e.V. sind urheberrechtlich geschützt.
 
-
-## Copyright
-Sofern zur Verwendung von im Internetangebot veröffentlichten Inhalten spezielle Nutzungsbedingungen festgelegt sind, gelten diese vorrangig. Ein Download oder Ausdruck von Inhalten ausschließlich für den persönlichen Gebrauch sind gestattet. Alle Inhalte, Bilder oder Grafiken sind urheberrechtlich geschützt und dürfen nur mit schriftlicher Genehmigung des jeweiligen Rechteinhabers verwendet werden.
+## Danksagung
+* [Posit.co](https://posit.co/) für die Software RStudio
+* [Quarto.org](https://quarto.org/) für die Software quarto
+* [Github.com](https://github.com/) für die Arbeitsumgebung
+* [Iconify](https://iconify.design/) für die Grafiken
 
 ## Bildquellen 
-Foto von <a href="https://unsplash.com/de/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Spiske</a> auf <a href="https://unsplash.com/de/fotos/P0klwkGbH_M?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-
-Foto von <a href="https://unsplash.com/de/@jonasjacobsson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jonas Jacobsson</a> auf <a href="https://unsplash.com/de/fotos/2xaF4TbjXT0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-
-
-Foto von <a href="https://unsplash.com/de/@golfarisa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Arisa Chattasa</a> auf <a href="https://unsplash.com/de/fotos/0LaBRkmH4fM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+* Foto von <a href="https://unsplash.com/de/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Spiske</a> auf <a href="https://unsplash.com/de/fotos/P0klwkGbH_M?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+* Foto von <a href="https://unsplash.com/de/@jonasjacobsson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jonas Jacobsson</a> auf <a href="https://unsplash.com/de/fotos/2xaF4TbjXT0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+* Foto von <a href="https://unsplash.com/de/@golfarisa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Arisa Chattasa</a> auf <a href="https://unsplash.com/de/fotos/0LaBRkmH4fM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+* Foto von <a href="https://unsplash.com/de/@gabriellefaithhenderson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gabrielle Henderson</a> auf <a href="https://unsplash.com/de/fotos/HJckKnwCXxQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+* Foto von <a href="https://unsplash.com/de/@neonbrand?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kenny Eliason</a> auf <a href="https://unsplash.com/de/fotos/1-aA2Fadydc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+* Foto von <a href="https://unsplash.com/de/@nate_dumlao?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nathan Dumlao</a> auf <a href="https://unsplash.com/de/fotos/ewGMqs2tmJI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+* Foto von <a href="https://unsplash.com/de/@cwmonty?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chris Montgomery</a> auf <a href="https://unsplash.com/de/fotos/smgTvepind4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+*  [Rathaus Spandau: A.Savin - Eigenes Werk - Mediawiki](https://de.wikipedia.org/wiki/Rathaus_Spandau#/media/Datei:Rathaus_B-Spandau_07-2017.jpg)   
+* [Potsdam: Kai Vogel - Mediawiki](https://pixabay.com/en/potsdam-babelsberg-downtown-green-1859455/) [Archivkopie](https://de.wikipedia.org/wiki/Potsdam#/media/Datei:Havel-Park-Lake-Babelsberg-Downtown-Potsdam-Green.jpg)
   
-Foto von <a href="https://unsplash.com/de/@gabriellefaithhenderson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gabrielle Henderson</a> auf <a href="https://unsplash.com/de/fotos/HJckKnwCXxQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-
-Foto von <a href="https://unsplash.com/de/@neonbrand?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kenny Eliason</a> auf <a href="https://unsplash.com/de/fotos/1-aA2Fadydc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-
-Foto von <a href="https://unsplash.com/de/@nate_dumlao?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nathan Dumlao</a> auf <a href="https://unsplash.com/de/fotos/ewGMqs2tmJI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-
-Foto von <a href="https://unsplash.com/de/@cwmonty?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chris Montgomery</a> auf <a href="https://unsplash.com/de/fotos/smgTvepind4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
-Rathaus Spandau: A.Savin - Eigenes Werk - Mediawiki - [https://de.wikipedia.org/wiki/Rathaus_Spandau#/media/Datei:Rathaus_B-Spandau_07-2017.jpg](https://de.wikipedia.org/wiki/Rathaus_Spandau#/media/Datei:Rathaus_B-Spandau_07-2017.jpg)   
-
-Kai Vogel - https://pixabay.com/en/potsdam-babelsberg-downtown-green-1859455/ Archivkopie
-https://de.wikipedia.org/wiki/Potsdam#/media/Datei:Havel-Park-Lake-Babelsberg-Downtown-Potsdam-Green.jpg
+## Copyright
+Sofern zur Verwendung von im Internetangebot veröffentlichten Inhalten spezielle Nutzungsbedingungen festgelegt sind, gelten diese vorrangig. Ein Download oder Ausdruck von Inhalten ausschließlich für den persönlichen Gebrauch sind gestattet. Alle Inhalte, Bilder oder Grafiken sind urheberrechtlich geschützt und dürfen nur mit schriftlicher Genehmigung des jeweiligen Rechteinhabers verwendet werden.  
   
 ## Datenschutzerklärung
 

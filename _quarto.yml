@@ -5,6 +5,7 @@ website:
   title: "BVÖGD Berlin Brandenburg"
   site-url: https://jakobschumacher.github.io/bvoegdbb_website/
   navbar:
+    logo: img/logo_klein.png
     left:
       - href: index.qmd
         text: Startseite
@@ -15,13 +16,20 @@ website:
       - href: pages/about.qmd
         text: Über
   page-footer: 
-    left: "Copyright 2023 Verband der Ärztinnen und Ärzte des Öffentlichen Gesundheitsdienstes der Länder Brandenburg und Berlin e.V." 
+    left: "BVÖGD Brandenburg und Berlin" 
     right: 
+      - href: pages/impressum.qmd#datenschutzerklärung
+        text: Datenschutz
       - href: pages/impressum.qmd
-        text: Impressum & Datenschutz
+        text: Impressum 
+      - href: pages/impressum.qmd#copyright
+        text: Copyright
+      - href: pages/impressum.qmd#haftungshinweise
+        text: Haftungshinweise
+      - href: pages/impressum.qmd#bildquellen
+        text: Bildquellen 
       - icon: github
         href: https://github.com/
-
 
 
 format:
@@ -31,4 +39,5 @@ format:
     toc: true
 
 
-
+execute:
+  freeze: auto

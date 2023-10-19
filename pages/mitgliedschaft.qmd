@@ -5,7 +5,7 @@ title: "Seien Sie Dabei: Werden Sie Mitglied"
 :::: {.columns}
 
 ::: {.column width="25%"}
-{{< iconify material-symbols counter-1-outline size=5x >}}
+{{< iconify fluent number-circle-1-32-regular size=4x >}}
 ::: 
 ::: {.column width="75%"}
 ### Möglichkeit prüfen
@@ -19,7 +19,7 @@ Alle Ärztinnen und Ärzte, Zahnärztinnen und Zahnärzte sowie Fachkräfte im �
 :::: {.columns}
 
 ::: {.column width="25%"}
-{{< iconify material-symbols counter-2-outline size=5x >}}
+{{< iconify fluent number-circle-2-32-regular size=4x >}}
 ::: 
 ::: {.column width="75%"}
 ### Vorteile der Mitgliedschaft
@@ -38,7 +38,7 @@ Alle Ärztinnen und Ärzte, Zahnärztinnen und Zahnärzte sowie Fachkräfte im �
 
 :::: {.columns}
 ::: {.column width="25%"}
-{{< iconify material-symbols counter-3-outline size=5x >}}
+{{< iconify fluent number-circle-3-32-regular size=4x >}}
 ::: 
 ::: {.column width="75%"}
 ### Wichtige Dokumente kennen lernen
@@ -51,7 +51,7 @@ Lernen Sie die [Satzung](../documents/satzung.pdf) und die [Beitragsordnung](../
 :::: {.columns}
 
 ::: {.column width="25%"}
-{{< iconify material-symbols counter-4-outline size=5x >}}
+{{< iconify fluent number-circle-4-32-regular size=4x >}}
 ::: 
 ::: {.column width="75%"}
 ### Aufnahmeantrag ausfüllen und abschicken
