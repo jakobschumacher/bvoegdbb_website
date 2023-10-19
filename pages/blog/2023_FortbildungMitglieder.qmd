@@ -7,12 +7,12 @@ lang: de
 ---
 Die Fortbildungsveranstaltung findet in 2023 unter dem Thema "Herausforderungen für den Öffentlichen Gesundheitsdienst im Rahmen der Versorgung von Geflüchteten" an. Die Veranstaltung findet statt in Potsdam - Bürgerhaus am Schlaatz, Schilfhof 28, 14478 Potsdam
  
- ::: {.callout-note}
+::: {.callout-note} 
 Was: ÖGD-Fortbildungsveranstaltung (9:00 bis 13:30) und Mitgliederversammlung (14:00 bis 16:00 Uhr)
 Wann:	Montag, 20.11.2023 
-Wo:	Potsdam - Bürgerhaus am Schlaatz, Schilfhof 28, 14478 Potsdam
+Wo:	[Potsdam - Bürgerhaus am Schlaatz, Schilfhof 28, 14478 Potsdam](https://www.openstreetmap.org/?mlat=52.37749&mlon=13.09729#map=19/52.37749/13.09729)
 Wer: BVÖGD-Mitglieder und Interessierte
-:::
+:::   
 
 ## Einladung
 Liebe Kolleginnen und Kollegen,
@@ -20,12 +20,9 @@ auch in diesem Jahr möchte wir uns zu einem aktuellen Thema  und den damit verb
 Für die diesjährige Fortbildung konnten wir zahlreiche Referenten aus Berlin und Brandenburg gewinnen, die uns über ihre Arbeit mit und für die Geflüchteten aus unterschiedlichen Blickwinkeln berichten werden.
 Ich freue mich auf eine interessante, bunte Veranstaltungen mit intensiven Austausch und Diskussionen und freue mich auf Ihr Kommen!
 Bis demnächst in Potsdam! 
+_Frau Dr. Kristina Böhm_
 
-
-## PROGRAMM
-
-Fortbildung
-für Mitarbeiterinnen und Mitarbeiter der Gesundheitsämter in Brandenburg u. Berlin
+## Programm Fortbildungsveranstaltung
 
 09:00 bis 09:05 Uhr
 Begrüßung und Einführung
@@ -64,5 +61,25 @@ Diskussion
 Abschluss
 
 
+## Programm Mitgliederversammlung
 
-Wir konnten interessante Referenten u.a. aus dem ZIPP, dem GFZ, dem Gesundheitsamt Neukölln und der Überwachungsstelle ÖRA Bw Ost gewinnen. 
+14:00 Uhr bis 16:00 Uhr
+Verfahrensverantwortung: Frau Dr. Kristina Böhm
+
+### Tagesordnung
+1) Begrüßung durch Frau Dr. Böhm
+2) Genehmigung der Tagesordnung
+3) Bericht des Vorstandes
+4) Berichte aus der Landesärztekammer Brandenburg und der Ärztekammer Berlin
+5) Bericht aus der Landesstelle Brandenburg des BZÖG
+6) Medienarbeit
+7) Kassenbericht (Martina Hänel)
+8) Bericht der Kassenprüfer
+9) Entlastung des Vorstandes
+10) Aktuelle Veränderungen im BVOEGD und im Landesverband
+11) Fachgesellschaften
+12) Verbandsarbeit bis 2024 – Vorbereitung Wahl 2024
+13) Kongress 2024 in Hamburg
+14) Verschiedenes
+
+
