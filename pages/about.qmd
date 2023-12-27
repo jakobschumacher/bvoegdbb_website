@@ -10,7 +10,7 @@ toc: false
 ## Kontakt
 Dr. Kristina Böhm  
 Tel.: 0331-289-2353  
-OeGDLandesverbandBBB(at)gmx.de
+<!-- OeGDLandesverbandBBB@gmx.de -->
 
 :::
 
@@ -29,7 +29,7 @@ OeGDLandesverbandBBB(at)gmx.de
 #### Dr. Kristina Böhm 
 _Vorsitzende_  
 Tel.: 0331-289-2353  
-Kristina.Boehm(at)rathaus.potsdam.de 
+<!-- Kristina.Boehm@rathaus.potsdam.de  -->
 :::
 ::::
 
