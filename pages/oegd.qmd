@@ -3,7 +3,7 @@ title: "Was ist der öffentlicher Gesundheitsdienst - Ein Überblick"
 toc: false
 ---
 
-Der Öffentliche Gesundheitsdienst spielt eine stille aber zentrale Rolle im Gesundheitswesen. 
+Der Öffentliche Gesundheitsdienst spielt eine zentrale Rolle im Gesundheitswesen. 
 
 Der Öffentliche Gesundheitsdienst kümmert sich vor allem um:
 
@@ -22,4 +22,4 @@ Ein typisches Gesundheitsamt hat verschiedene Bereiche:
 
 Zusätzlich gibt es Bereiche wie Gesundheitsförderung, Beratung von Personengruppen mit gesundheitlichen Einschränkungen, Heilpraktikeraufsicht, Schädlingsbekämpfung, umweltbezogener Gesundheitsschutz, Zentrum für sexuelle Gesundheit und viele mehr.
 
-Auf Landesebene gibt es die Landesstellen und auf Bundesebene spezialisierte Behörden wie das Robert-Koch Institut und das Paul-Ehrlich Institut. s
+Auf Landesebene gibt es die Landesstellen und auf Bundesebene spezialisierte Behörden wie das Robert-Koch Institut und das Paul-Ehrlich Institut. 
